@@ -1,0 +1,462 @@
+[
+  {
+    "sale_date": 1709251200000,
+    "Customer ": "Lucas Oliveira",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor ",
+    "Age": 31,
+    "Estado": "BA",
+    "campanha": "AniversarioTutor "
+  },
+  {
+    "sale_date": 1709596800000,
+    "Customer ": "Fernanda Santos",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=FeriadoProlongado",
+    "Age": 29,
+    "Estado": "BA",
+    "campanha": "FeriadoProlongado"
+  },
+  {
+    "sale_date": 1710028800000,
+    "Customer ": "Gabriel Lima",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 45,
+    "Estado": "BA",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1710460800000,
+    "Customer ": "Julia Souza",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 27,
+    "Estado": "BA",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1710892800000,
+    "Customer ": "Marcos Ferreira",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor ",
+    "Age": 24,
+    "Estado": "BA",
+    "campanha": "AniversarioTutor "
+  },
+  {
+    "sale_date": 1711324800000,
+    "Customer ": "Beatriz Costa",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=FinalDeSemana",
+    "Age": 39,
+    "Estado": "BA",
+    "campanha": "FinalDeSemana"
+  },
+  {
+    "sale_date": 1713139200000,
+    "Customer ": "Pedro Ferro",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor ",
+    "Age": 32,
+    "Estado": "BA",
+    "campanha": "AniversarioTutor "
+  },
+  {
+    "sale_date": 1717977600000,
+    "Customer ": "Vanessa Costa",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 36,
+    "Estado": "DF",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1718409600000,
+    "Customer ": "Thiago Almeida",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 29,
+    "Estado": "DF",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1718841600000,
+    "Customer ": "Camila Oliveira",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 24,
+    "Estado": "DF",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1719273600000,
+    "Customer ": "Vinicius Santos",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 40,
+    "Estado": "DF",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1719792000000,
+    "Customer ": "Isabela Ferreira",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 32,
+    "Estado": "DF",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1720137600000,
+    "Customer ": "Rafael Oliveira",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 26,
+    "Estado": "DF",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1720569600000,
+    "Customer ": "Larissa Costa",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 41,
+    "Estado": "DF",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1721001600000,
+    "Customer ": "Lucas Almeida",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 34,
+    "Estado": "DF",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1721433600000,
+    "Customer ": "Mariana Ferreira",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=FinalDeSemana",
+    "Age": 28,
+    "Estado": "DF",
+    "campanha": "FinalDeSemana"
+  },
+  {
+    "sale_date": 1722470400000,
+    "Customer ": "Carolina Santos",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 30,
+    "Estado": "MG",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1722816000000,
+    "Customer ": "Felipe Almeida",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 27,
+    "Estado": "MG",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1723248000000,
+    "Customer ": "Amanda Oliveira",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 42,
+    "Estado": "MG",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1723680000000,
+    "Customer ": "Gustavo Lima",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 33,
+    "Estado": "MG",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1724112000000,
+    "Customer ": "Juliana Ferreira",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 26,
+    "Estado": "MG",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1724544000000,
+    "Customer ": "Marcos Almeida",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 39,
+    "Estado": "MG",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1704844800000,
+    "Customer ": "Isabela Ferreira",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 30,
+    "Estado": "SP",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1705276800000,
+    "Customer ": "Rafaela Lima",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 28,
+    "Estado": "SP",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1705708800000,
+    "Customer ": "Marcelo Almeida",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 33,
+    "Estado": "SP",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1706140800000,
+    "Customer ": "Lucas Ferreira",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=FeriadoProlongado",
+    "Age": 37,
+    "Estado": "SP",
+    "campanha": "FeriadoProlongado"
+  },
+  {
+    "sale_date": 1706745600000,
+    "Customer ": "João Silva",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor ",
+    "Age": 35,
+    "Estado": "BA",
+    "campanha": "AniversarioTutor "
+  },
+  {
+    "sale_date": 1707091200000,
+    "Customer ": "Maria Santos",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=FeriadoProlongado",
+    "Age": 28,
+    "Estado": "BA",
+    "campanha": "FeriadoProlongado"
+  },
+  {
+    "sale_date": 1707523200000,
+    "Customer ": "Pedro Lima",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 42,
+    "Estado": "BA",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1707955200000,
+    "Customer ": "Ana Souza",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 30,
+    "Estado": "BA",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1708387200000,
+    "Customer ": "Carlos Ferro",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor ",
+    "Age": 25,
+    "Estado": "BA",
+    "campanha": "AniversarioTutor "
+  },
+  {
+    "sale_date": 1708819200000,
+    "Customer ": "Paula Costa",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor ",
+    "Age": 37,
+    "Estado": "BA",
+    "campanha": "AniversarioTutor "
+  },
+  {
+    "sale_date": 1713571200000,
+    "Customer ": "Marcela Santos",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 28,
+    "Estado": "DF",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1714003200000,
+    "Customer ": "Ricardo Lima",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 35,
+    "Estado": "DF",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1714521600000,
+    "Customer ": "Juliana Souza",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 30,
+    "Estado": "DF",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1714867200000,
+    "Customer ": "André Ferreira",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 26,
+    "Estado": "DF",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1715299200000,
+    "Customer ": "Renata Costa",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 42,
+    "Estado": "DF",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1715731200000,
+    "Customer ": "Gabriel Almeida",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 33,
+    "Estado": "DF",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1716163200000,
+    "Customer ": "Mariana Oliveira",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 27,
+    "Estado": "DF",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1716595200000,
+    "Customer ": "Eduardo Santos",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 38,
+    "Estado": "DF",
+    "campanha": "AniversarioTutor"
+  },
+  {
+    "sale_date": 1717200000000,
+    "Customer ": "Carolina Lima",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=FinalDeSemana",
+    "Age": 31,
+    "Estado": "DF",
+    "campanha": "FinalDeSemana"
+  },
+  {
+    "sale_date": 1717545600000,
+    "Customer ": "Gustavo Ferro",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=FinalDeSemana",
+    "Age": 25,
+    "Estado": "DF",
+    "campanha": "FinalDeSemana"
+  },
+  {
+    "sale_date": 1731196800000,
+    "Customer ": "Gustavo Almeida",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 35,
+    "Estado": "MG",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1731628800000,
+    "Customer ": "Juliana Lima",
+    "Contracted Plan": "Plano Premium",
+    "Amount": 29.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 28,
+    "Estado": "MG",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1732060800000,
+    "Customer ": "Lucas Santos",
+    "Contracted Plan": "Plano Básico",
+    "Amount": 12.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=SemanaDog",
+    "Age": 31,
+    "Estado": "MG",
+    "campanha": "SemanaDog"
+  },
+  {
+    "sale_date": 1732492800000,
+    "Customer ": "Isabela Ferreira",
+    "Contracted Plan": "Plano Padrão",
+    "Amount": 19.9,
+    "utm_link": "https://servicostreaming.com.br?utm_campaign=AniversarioTutor",
+    "Age": 36,
+    "Estado": "MG",
+    "campanha": "AniversarioTutor"
+  }
+]
